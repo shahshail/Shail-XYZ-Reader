@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/shailshah/.android/build-cache/be22f910443163d1d2af19eea7da6c6fcd59fa2b/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/shailshah/.android/build-cache/be22f910443163d1d2af19eea7da6c6fcd59fa2b/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/shailshah/.android/build-cache/be22f910443163d1d2af19eea7da6c6fcd59fa2b/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/shailshah/.android/build-cache/be22f910443163d1d2af19eea7da6c6fcd59fa2b/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/shailshah/.android/build-cache/be22f910443163d1d2af19eea7da6c6fcd59fa2b/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/shailshah/.android/build-cache/be22f910443163d1d2af19eea7da6c6fcd59fa2b/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/shailshah/.android/build-cache/be22f910443163d1d2af19eea7da6c6fcd59fa2b/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/shailshah/.android/build-cache/be22f910443163d1d2af19eea7da6c6fcd59fa2b/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    }
+]

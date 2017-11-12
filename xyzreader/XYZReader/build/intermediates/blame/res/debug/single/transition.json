@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/transition/rec_trans.xml",
+        "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/src/main/res/transition/rec_trans.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/transition/rec_trans.xml",
+        "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/transition/rec_trans.xml"
+    }
+]
