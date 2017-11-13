@@ -40,12 +40,12 @@
         "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
         "source": "/Users/shailshah/.android/build-cache/be22f910443163d1d2af19eea7da6c6fcd59fa2b/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",

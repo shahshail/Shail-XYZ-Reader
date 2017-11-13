@@ -12,12 +12,12 @@
         "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/src/main/res/drawable/add_fab_background.xml"
     },
     {
-        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
         "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable/photo_background_protection.xml",

@@ -4,6 +4,10 @@
         "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/src/main/res/animator-v21/fab_state_list_anim.xml"
     },
     {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/animator-v21/rotate_cross_to_tick.xml",
+        "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/animator-v21/rotate_cross_to_tick.xml"
+    },
+    {
         "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/animator-v21/top_out.xml",
         "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/animator-v21/top_out.xml"
     },
@@ -12,8 +16,16 @@
         "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/src/main/res/animator-v21/top_out.xml"
     },
     {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/animator-v21/cross_to_tick.xml",
+        "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/animator-v21/cross_to_tick.xml"
+    },
+    {
         "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/animator-v21/bottom_in.xml",
         "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/animator-v21/bottom_in.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/animator-v21/rotate_tick_to_cross.xml",
+        "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/animator-v21/rotate_tick_to_cross.xml"
     },
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/animator-v21/bottom_in.xml",
@@ -22,5 +34,9 @@
     {
         "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/animator-v21/fab_state_list_anim.xml",
         "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/animator-v21/fab_state_list_anim.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/animator-v21/tick_to_cross.xml",
+        "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/animator-v21/tick_to_cross.xml"
     }
 ]

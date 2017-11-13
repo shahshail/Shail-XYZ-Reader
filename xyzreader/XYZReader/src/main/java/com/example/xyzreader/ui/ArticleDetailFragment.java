@@ -2,21 +2,19 @@ package com.example.xyzreader.ui;
 
 import android.app.Fragment;
 import android.app.LoaderManager;
-import android.content.Intent;
 import android.content.Loader;
 import android.content.res.ColorStateList;
 import android.database.Cursor;
 import android.graphics.Bitmap;
-import android.graphics.Color;
 import android.graphics.Rect;
 import android.graphics.Typeface;
+import android.graphics.drawable.AnimatedVectorDrawable;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
-import android.support.v4.app.ShareCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.widget.NestedScrollView;
 import android.support.v7.graphics.Palette;
@@ -31,8 +29,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
-import android.view.animation.Animation;
-import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -46,8 +42,6 @@ import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
 
 import java.lang.reflect.Field;
-
-import javax.xml.datatype.Duration;
 
 /**
  * A fragment representing a single Article detail screen. This fragment is
@@ -78,6 +72,9 @@ public class ArticleDetailFragment extends Fragment implements
     private int mStatusBarFullOpacityBottom;
     private FloatingActionButton fab;
     private int id = 0;
+    private AnimatedVectorDrawable tickToCross;
+    private AnimatedVectorDrawable crossToTick;
+    private boolean tick = false;
 
     /**
      * Mandatory empty constructor for the fragment manager to instantiate the
@@ -152,7 +149,8 @@ public class ArticleDetailFragment extends Fragment implements
                 mTopInset = insets.top;
             }
         });
-
+        tickToCross = (AnimatedVectorDrawable) getActivity().getDrawable(R.drawable.avd_tick_to_cross);
+        crossToTick = (AnimatedVectorDrawable) getActivity().getDrawable(R.drawable.avd_cross_to_tick);
         mScrollView = (NestedScrollView) mRootView.findViewById(R.id.scrollview);
 
         mPhotoView = (ImageView) mRootView.findViewById(R.id.photo);
@@ -166,7 +164,11 @@ public class ArticleDetailFragment extends Fragment implements
             @Override
             public void onClick(View view) {
                 Snackbar.make(mRootView,
-                        Html.fromHtml("<font color=\"#ffffff\">Saved To Your Library</font>"),Snackbar.LENGTH_SHORT).show();
+                        Html.fromHtml("<font color=\"#ffffff\">Yet To Implement...</font>"),Snackbar.LENGTH_SHORT).show();
+                AnimatedVectorDrawable drawable = tick ? tickToCross : crossToTick;
+                fab.setImageDrawable(drawable);
+                drawable.start();
+                tick = !tick;
             }
         });
         updateCurrentView();

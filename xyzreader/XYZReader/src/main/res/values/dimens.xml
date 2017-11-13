@@ -10,6 +10,6 @@
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="init_Scrollup">200dp</dimen>
     <dimen name="fab_border">0dp</dimen>
-
+    <dimen name="card_view_corner_radius">5dp</dimen>
     <dimen name="custome_cardview_animation">3dp</dimen>
 </resources>

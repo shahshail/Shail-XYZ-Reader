@@ -140,7 +140,7 @@
             android:clickable="true"
             android:contentDescription="@string/action_share"
             android:elevation="@dimen/fab_elevation"
-            android:src="@drawable/ic_library_books_white_24dp"
+            android:src="@drawable/ic_tick"
             app:borderWidth="@dimen/fab_border"
             app:layout_anchor="@id/appbar"
             app:layout_anchorGravity="bottom|right|end"

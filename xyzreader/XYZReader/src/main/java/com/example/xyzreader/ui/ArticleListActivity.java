@@ -73,6 +73,8 @@ public class ArticleListActivity extends AppCompatActivity implements
         mProgressbar = (ProgressBar) findViewById(R.id.progressBar);
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         mCollaspsingLayout = (CollapsingToolbarLayout) findViewById(R.id.collapsing_toolbar);
+        mCollaspsingLayout.setTitle("XYZ Reader");
+        mCollaspsingLayout.setCollapsedTitleTextAppearance(android.R.style.TextAppearance_DeviceDefault_SearchResult_Title);
         mCollaspsingLayout.setCollapsedTitleTextColor(ContextCompat.getColor(ArticleListActivity.this, android.R.color.white));
         mCollaspsingLayout.setExpandedTitleColor(ContextCompat.getColor(ArticleListActivity.this, android.R.color.transparent));
         CollapsebarModifier(mCollaspsingLayout);

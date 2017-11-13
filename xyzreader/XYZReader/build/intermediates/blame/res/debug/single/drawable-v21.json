@@ -12,6 +12,10 @@
         "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/ic_cross.xml",
+        "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/drawable-v21/ic_cross.xml"
+    },
+    {
         "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/Users/shailshah/.android/build-cache/78120d15ba5681a6b7df785b9bfad2acf2d1086c/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
@@ -20,7 +24,19 @@
         "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
     },
     {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/ic_tick.xml",
+        "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/drawable-v21/ic_tick.xml"
+    },
+    {
         "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
         "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyz-reader-starter-code/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_cross_to_tick.xml",
+        "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/drawable-v21/avd_cross_to_tick.xml"
+    },
+    {
+        "merged": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_tick_to_cross.xml",
+        "source": "/Users/shailshah/Documents/Android/Projects/XYZ-Reader/xyzreader/XYZReader/src/main/res/drawable-v21/avd_tick_to_cross.xml"
     }
 ]
