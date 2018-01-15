@@ -6,13 +6,13 @@ This project is part of Udacity Nanodegree project where I redesign a sample app
 XYZ reader is a mock RSS feed reader about all things bacon.
 
 ## Pre-requisites
-Android SDK v23
-Android Build Tools v23.0.1
-Android Support Repository
+- Android SDK v23
+- Android Build Tools v23.0.1
+- Android Support Repository
 
 ## Libraries
-OkHTTP, HTTP client library for Android
-Picasso, Android library for image downloading and caching
+ - OkHTTP, HTTP client library for Android
+ - Picasso, Android library for image downloading and caching
 
 ## How To Install
 This project uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
